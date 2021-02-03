@@ -19,13 +19,12 @@ Although the absolute numbers of active and recovered cases are rough estimates,
 https://www.pordata.pt  
 https://github.com/dssg-pt/covid19pt-data*
 
+**(2) Portugal shapefile**  
+*https://dados.gov.pt/pt/datasets/concelhos-de-portugal/*
+
+**ACKNOWLEDGEMENT**
 Thanks José Miguel Rodrigues Quintas for scraping and cooking the COVID data.  
 *https://github.com/josemrquintas*  
 Thanks Filipe G. Coelho for the idea of colour design.  
 *https://github.com/FilipeGCoelho/*
-
-**(2) Portugal shapefile**  
-*https://dados.gov.pt/pt/datasets/concelhos-de-portugal/*
-
-
 
