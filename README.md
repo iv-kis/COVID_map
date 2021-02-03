@@ -8,7 +8,7 @@ Data per Concelho (as of the end of Jan 2021):
 - Number of active cases (calculated as new cases in last 14 days)
 - Number of recoveries
 
-Sources:
+Sources:  
 https://www.pordata.pt  
 https://github.com/dssg-pt/covid19pt-data
 
