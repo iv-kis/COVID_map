@@ -14,7 +14,7 @@ Sources:
 https://www.pordata.pt  
 https://github.com/dssg-pt/covid19pt-data
 
-Thanks to José Miguel Rodrigues Quintas for scraping and cooking the COVID data.
+Thanks to José Miguel Rodrigues Quintas for scraping and cooking the COVID data.  
 https://github.com/josemrquintas
 
 (2) Portugal shapefile  
