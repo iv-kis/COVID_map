@@ -8,11 +8,13 @@ Data per Concelho (as of the end of Jan 2021):
 - Number of active cases (calculated as new cases in last 14 days)
 - Number of recoveries
 
+Although the absolute numbers of active and recovered cases are rough estimates, they follow the real proportion, which is of first interest in this visualization.
+
 Sources:  
 https://www.pordata.pt  
 https://github.com/dssg-pt/covid19pt-data
 
-Thanks to Jose Miguel Rodrigues Quintas
+Thanks to José Miguel Rodrigues Quintas for scraping and cooking the COVID data.
 https://github.com/josemrquintas
 
 (2) Portugal shapefile  
