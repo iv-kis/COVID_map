@@ -15,6 +15,6 @@ https://github.com/dssg-pt/covid19pt-data
 Thanks to Jose Miguel Rodrigues Quintas
 https://github.com/josemrquintas
 
-(2) Portugal shapefile
+(2) Portugal shapefile  
 https://dados.gov.pt/pt/datasets/concelhos-de-portugal/
 
