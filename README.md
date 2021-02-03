@@ -22,7 +22,7 @@ https://github.com/dssg-pt/covid19pt-data*
 **(2) Portugal shapefile**  
 *https://dados.gov.pt/pt/datasets/concelhos-de-portugal/*
 
-**ACKNOWLEDGEMENT**
+**ACKNOWLEDGEMENT**  
 Thanks José Miguel Rodrigues Quintas for scraping and cooking the COVID data.  
 *https://github.com/josemrquintas*  
 Thanks Filipe G. Coelho for the idea of colour design.  
