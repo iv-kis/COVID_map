@@ -9,7 +9,7 @@ Data per Concelho (as of the end of Jan 2021):
 - Number of recoveries
 
 Sources:
-https://www.pordata.pt
+https://www.pordata.pt  
 https://github.com/dssg-pt/covid19pt-data
 
 Thanks to Jose Miguel Rodrigues Quintas
